@@ -1,7 +1,7 @@
 {
     "name": "GlassbilenMusic",
-    "version_number": "1.0.1",
-    "website_url": "https://github.com/thunderstore-io",
+    "version_number": "1.0.2",
+    "website_url": "https://github.com/TwoPercentSkill/GlassbilenMusic",
     "description": "Replaces the delivery rocket music with the jingle from the Swedish ice cream van.",
     "dependencies": [
         "BepInEx-BepInExPack-5.4.2100",
